@@ -20,6 +20,7 @@ reg [1:0] t_sel;
       $dumpvars(0, tb);
     end
   end
+  
 
   initial begin
     // TODO: apply different input combinations
